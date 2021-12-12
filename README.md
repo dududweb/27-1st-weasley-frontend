@@ -1,13 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=TEAM_WEASELY&fontSize=50)
-
-<br/>
-
 ---
 
 
 ## 프로젝트 기간
 
 - 2021.11.29. ~ 2021.12.10.
+
+# Members
+
+[프론트엔드]  
+[김유량 Github](http:s//github.com/YuryangKim)  
+[황성재 Github](https://github.com/seongjae0325)  
+[황주영 Github](https://github.com/dududweb)
+
+<br/>
+
+[백엔드]  
+[강태준 Github](https://github.com/eslerkang)  
+[길동화 Github](https://github.com/dk-sync)  
+[염기욱 Github](https://github.com/bakha1002)
+
+---
 
 
 ## <b>목표</b>
@@ -59,24 +71,6 @@
 - JavaScript(ES6)
 - React.js
 - Git
-
----
-
-# Members
-
-[프론트엔드]  
-[김유량 Github](http:s//github.com/YuryangKim)  
-[황성재 Github](https://github.com/seongjae0325)  
-[황주영 Github](https://github.com/dududweb)
-
-<br/>
-
-[백엔드]  
-[강태준 Github](https://github.com/eslerkang)  
-[길동화 Github](https://github.com/dk-sync)  
-[염기욱 Github](https://github.com/bakha1002)
-
----
 
 # Reference
 
