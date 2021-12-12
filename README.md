@@ -1,4 +1,6 @@
----
+
+## 프로젝트 개요
+2주간의 짧은 개발기간으로 인해 디자인,기획만 클론하였으 데이터, 기능구현은 자체적으로 만들었습니다.
 
 
 ## 프로젝트 기간
@@ -18,9 +20,6 @@
 [강태준 Github](https://github.com/eslerkang)  
 [길동화 Github](https://github.com/dk-sync)  
 [염기욱 Github](https://github.com/bakha1002)
-
----
-
 
 ## <b>목표</b>
 
