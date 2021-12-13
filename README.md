@@ -31,6 +31,7 @@
 # 
 
 사이트링크: http://18.216.61.230:8000/
+블로그링크: https://dududweb.tistory.com/36
 
 ---
 
