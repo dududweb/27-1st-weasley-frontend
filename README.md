@@ -44,6 +44,7 @@
 - 메인페이지: 유지보수와 빠른 작업을 위해 flex레이아웃으로 작업했습니다.
 ![상세페이지뷰](https://user-images.githubusercontent.com/91524565/145734795-1f61a2e0-ef43-43a6-b13e-3329673d953c.gif)
 ![구독주소알럿](https://user-images.githubusercontent.com/91524565/145735215-6e5e195d-a41f-46b2-afee-c780922a94f1.gif)
+![오더부분](https://user-images.githubusercontent.com/91524565/145735371-b75e3fef-6a15-4e4d-b1bf-df240167fbc7.gif)
 
 
 # 프로젝트 회고
